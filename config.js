@@ -1,21 +1,21 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.apikey = 'isi apikey lu'
-global.rosekey = '-' //https://api.itsrose.life
+global.apikey = 'e94f9b0386596ac7f50d83c4'
+global.rosekey = '-' //https://api.lolhuman.xyz
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'ShinySebastian'
+global.namabot = 'HimaruBOT'
+global.namaowner = 'HimaruOfficial'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = '6283819654409'
+global.nomorlu = '6283819654409'
+global.ownernomer = ["6283819654409"]
+global.premium = ['6283819654409']
 
 //—————「 Set Wm 」—————//
-global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.packname = 'HimaruBOT'
+global.author = 'HimaruOfficial'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -41,7 +41,7 @@ global.limitawal = {
 
 //—————「 Set Image 」—————//
 global.imageurl = 'https://i.pinimg.com/236x/75/d8/8e/75d88ec4982f34ce10009c9024934be8.jpg'
-global.isLink = `https://youtube.com/@shinysebastianchannel`
+global.isLink = `https://www.instagram.com/abcd3rik`
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
